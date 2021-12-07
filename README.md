@@ -1,4 +1,4 @@
-# real-world-app-automation
+# realworld-app-automation
 Cypress automation of Real World App.
 
 https://github.com/cypress-io/cypress-realworld-app
